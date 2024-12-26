@@ -58,5 +58,8 @@ Logistic Regression: 0.75
 Random Forest: 0.72
 svm : 0.74
 
+Conclusion 
+
+"Our results show that Logistic Regression outperforms other algorithms in terms of accuracy, achieving the highest accuracy at 81.29%. Therefore, Logistic Regression is the best model for this dataset based on accuracy."
 
 
