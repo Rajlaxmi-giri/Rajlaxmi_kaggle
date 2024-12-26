@@ -46,4 +46,17 @@ Naive Bayes: 0.8076
 Random Forest: 0.7787
 svm : 0.5903
 
+Using Word2Vec :
+Model Accuracies:
+Logistic Regression: 0.68
+Random Forest: 0.69
+svm : 0.42
+
+Using Word2Vec + TF-IDF  :
+Model Accuracies:
+Logistic Regression: 0.75
+Random Forest: 0.72
+svm : 0.74
+
+
 
